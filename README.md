@@ -1,7 +1,6 @@
 ![RocketBlog](https://i.imgur.com/dBQpYpW.png)
 
 ##  ROCKETBLOG ![#efe0fc](https://via.placeholder.com/10/efe0fc/ffffff?text=+) 
-O café que fará seu código decolar para o próximo nível.
 
 Welcome to the project. <br>
 I come through this project to put into **practice** methods **learned** on the Front-End, <br>
