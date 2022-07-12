@@ -20,7 +20,6 @@ created with **HTML, CSS3** it is a blog page. **(non-dynamic)**. <br>
 ## Preview [Computer]
 ##### See all <a href="https://www.behance.net/gallery/137853713/RocketBlog">here</a><br>
 \
-![image](https://i.imgur.com/WePU2O5.png)
 ![image](https://i.imgur.com/M0yevon.png)
 
 ## Preview [Mobile]
